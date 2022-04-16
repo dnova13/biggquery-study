@@ -1,0 +1,1 @@
+SELECT SAFE.LOG(10, -3), LOG(10, 3)

@@ -1,0 +1,32 @@
+{
+    "access": [
+        {
+            "role": "WRITER",
+            "specialGroup": "projectWriters"
+        },
+        {
+            "role": "OWNER",
+            "specialGroup": "projectOwners"
+        },
+        {
+            "role": "OWNER",
+            "userByEmail": "cnova0713@gmail.com"
+        },
+        {
+            "role": "READER",
+            "specialGroup": "projectReaders"
+        }
+    ],
+    "creationTime": "1649736367237",
+    "datasetReference": {
+        "datasetId": "ch04",
+        "projectId": "dark-tenure-347003"
+    },
+    "etag": "n1PEsKHgM6gWc+GdyA9xUw==",
+    "id": "dark-tenure-347003:ch04",
+    "kind": "bigquery#dataset",
+    "lastModifiedTime": "1649736367237",
+    "location": "US",
+    "selfLink": "https://bigquery.googleapis.com/bigquery/v2/projects/dark-tenure-347003/datasets/ch04",
+    "type": "DEFAULT"
+}

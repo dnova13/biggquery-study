@@ -1,0 +1,22 @@
+{
+    "sourceFormat": "BIGTABLE",
+    "sourceUris": [
+        "https://googleapis.com/bigtable/projects/[project_id]/instances/[instance_id]/tables/[table_name]"
+    ],
+    "bigtableOptions": {
+        "columnFamilies": [
+            {
+                "familyId": "family_int",
+                "type": "INTEGER",
+                "encoding": "BINARY"
+            }
+        ],
+        "columnFamilies": [
+            {
+                object (BigtableColumnFamily)
+            }
+        ],
+        "ignoreUnspecifiedColumnFamilies": boolean,
+        "readRowkeyAsString": boolean
+    }
+}

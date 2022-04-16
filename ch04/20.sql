@@ -1,0 +1,2 @@
+DELETE FROM ch04.college_scorecard
+WHERE SAT_AVG IS NULL

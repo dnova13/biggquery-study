@@ -1,0 +1,6 @@
+{
+    "sourceFormat": "BIGTABLE",
+    "sourceUris": [
+        "https://googleapis.com/bigtable/projects/dark-tenure-347003/instances/bqbook-instance/tables/logs-table"
+    ]
+}

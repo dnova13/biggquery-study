@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "dark-tenure-347003",
+    "private_key_id": "56156794508cbeff9985cf1ef7cfd76702cea174",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWysAznexXSlJq\nBGs7uydAlt5zFZcXlhWyLF64Lifr3hUPQ76rEJ1JTuTkUTaRqtlNx3MfcfrNga2N\nfGdA90aC2L33ZlD7FGMK3cIacjfsbJtiAaqm0hLTXd2TL/TaFk3rfp7jyIYIRXEd\nafLmvdHwjw/G20u+NJE7ATASNOtt5mF0Y7fgyi84VTRbx1V//UE74gGTnJsVfT8i\nLm/OedarxPhEyPZxmm+OvK02ha2P2nLVqDu4s6xTeNHqqo89rkIQooelEiw6oiw5\nygIEFkedSBa6RDLsfTmlmztrPrn2XSuhTuMrkWrRInFzbBs52w7/nZV2ly2TSZio\nWoQ0IThlAgMBAAECggEAIB1s22FsOzgNPt6TjwxgQwGOvXBw9jlFBCYugyfzYSjy\nj8Z0Fn9KnFkU5yqDxnjeYJIUqvMNwRR4B8zhucSgTBBIvybXou3X3THXG+ZNEkmc\nOz6TH4XYtBMG9IjPa146OKhGQ0mLADp36ZWNwcZWLtdtOwMsCcWs06YAXLRQGt7V\nGvYO7SvZgGCHQRitbkgeXeNfW6oiCP4xSHTl7erswcfYBA2Km/LMKWv/vKRYEGyW\nTzw0123mUTcynUIGyPa4n35d+97MGX1eUYI8V/y0rLtzlACg8T5/5ihAPz5gcLxh\npshPI2LeJ42tsbn/P02ABQzrOh06B3K4vOHQeOU8+QKBgQDGzPbp+LLKiZfgSR7m\nWAoCf9x4cEjzmOQMtmOrTQgU7ZlsHQ30ArfaR2xQX52m0/QvD8zLq1/pSCcFxmZP\nOj9480/3BngUh+aYpuLigI+Fyhw0vEv5LYFcwnnLHz8m2+C0FkLRAMZuJL/qbTpr\nYnbsR3tNNbCFcvlhqwJ3Pzn72QKBgQDCLZ52/kZAZSxKGP78NXGW31CKov6YCWFZ\nEnaSCM8FwvI0CsJ+iJeAf6shMkL/sNBpYm4St2r1dQTQXZIX5HtqmoqvNUTEEkf1\nOVL2TBzPw+ZxQUXgyPePKgHFHX8zvwb0B7ZLvHZOOUngiPB/pjkwTfMO3klaGs5x\nmxN+j9vFbQKBgH+8p1LDKC6XpmzIzv/2xcfBXGpOy7EqJi4862HgRzcbTB95s8N8\nE6I/jks+hM/zFM1Ae7jKTwBYCirdxlNV+/69aD4ze+jFQdgIM3SSYqX2rZT9AFwF\nbz+o/hUT6MIROhq8ywX8V4PiPSZmNMlXJU7Ax2te+iNlMvQcq6Lvj1RRAoGBAKVW\naLbTfgf43cReEke4Tfb0QUU60mOsoQpR8UoZXAWA3/C2NLO/JJlSm+lRPcEv0dXZ\n7PXc3aMRN78f3XSgpQG5g1r6lYoKMuE4JU74shOqr75BoPlsxXZOg2FO42+xOX9y\nTaOhXm7u0tvwXi+i3tElnk9LsNObPat4Kxo57hzlAoGAEG85ZbIWHIntJdjwzB+J\n6RttEbZ8yTszgf+r/0/Bkjr/6+4D3gjeuaMOfnhOZduWUbhAZH2af0vDGXJ9FAgt\njSLS7pkmecBJg0LRpR7E33giSR5tUqGQD2RJlMBJcMsSJY9QdGbCAFJcqFIH2ll9\noBdzL16XE60xDL4zc6ttcCs=\n-----END PRIVATE KEY-----\n",
+    "client_email": "cnova-208@dark-tenure-347003.iam.gserviceaccount.com",
+    "client_id": "100497190285263975955",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cnova-208%40dark-tenure-347003.iam.gserviceaccount.com"
+}
